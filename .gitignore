@@ -1,0 +1,16 @@
+# Runtime logs
+*.log
+
+# Build intermediates
+src/*.obj
+src/*.exp
+src/*.lib
+src/*.pdb
+src/xinput9_1_0.dll
+
+# Release packages
+dist/
+
+# Local research files
+re/
+tools/
